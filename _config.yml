@@ -1,14 +1,17 @@
-title: Your awesome title
-author:
-  name: GitHub User
-  email: your-email@domain.com
+title: The Life of One T.England
+author: Taryn England
+name: tarynengland
+email: tarynengland1@Yahoo.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  In the every changing rollercoaster of life this blog is to highlight some 
+  of the day to day things that I go through. It will highlight the parts of my
+  life that are great challenges I faced, awesome adventures that I got to 
+  experience, the small and little joys that come at random moments, and even 
+  the frustarions I have. This will be a place that any thing on my mind will 
+  have a safe space to live and be shared amongst any who stumble upon it too.
 
 # Build settings
 
@@ -28,12 +31,12 @@ minima:
 
   # Generate social links in footer.
   #
-  # social_links:
+  social_links:
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-  #   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+     - { platform: github,         user_url: "https://github.com/tarynengland" }
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
