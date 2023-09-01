@@ -13,7 +13,7 @@ I have written a blog post before so the idea of blogging isn't new to me but I 
 
 I feel like over the course of the next few months I will learn and understand more on the nature of what is actually going on between what I see on my local computer and how that gets posted on the internet for anyone to be able to see around the world. It still is a little foggy on what is actually happening behind the scenes.
 
-A few good links that proved **very helpful** during my journey:
+A few links that proved **very helpful** during my journey:
 
 1. [The Last of the Mohicans Calming Music & Ambience for Relaxation, Sleep, and Studying By: Ambient Worlds](https://www.youtube.com/watch?v=3fWovzfcsfk)
 
