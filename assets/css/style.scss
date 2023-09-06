@@ -5,3 +5,13 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.page-content{
+  background-color: lavender;
+}
+.site-header{
+  background-color: rgb(100, 100, 100);
+}
+.site-footer{
+  background-color: rgb(211, 211, 211);
+}
