@@ -22,9 +22,9 @@ I still have trouble trying to also follow the paths in which things are really 
 
 This is how I have to tell myself I can do it.
 
-<img src="/assets/images/Do_It.jpg" alt="Squirrel" style="width:250px"> 
+![Squirrel]({{"/assets/images/Do_It.jpg"| relative_url}}) 
 
 Yet this is how I often find myself shortly after starting something.
 
-<img src="/assets/images/Keep_Going.jpg" alt="Should I keep Going?" style="width:250px">
+![Tobby]({{"/assets/images/Keep_Going.jpg" | relative_url}}) 
 
